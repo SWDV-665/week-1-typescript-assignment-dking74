@@ -1,0 +1,26 @@
+{
+    "name": "week-1-typescript-assignment-dking74",
+    "version": "1.0.0",
+    "description": "Basic Typescript Demonstration",
+    "main": "index.js",
+    "scripts": {
+        "build": "tsc  --target ES5 --module commonjs grocery.ts",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/SWDV-665/week-1-typescript-assignment-dking74.git"
+    },
+    "author": "Devon King",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/SWDV-665/week-1-typescript-assignment-dking74/issues"
+    },
+    "homepage": "https://github.com/SWDV-665/week-1-typescript-assignment-dking74#readme",
+    "dependencies": {
+        "mustache": "^4.0.1"
+    },
+    "devDependencies": {
+        "typescript": "^4.0.3"
+    }
+}
